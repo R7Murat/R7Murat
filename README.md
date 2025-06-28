@@ -1,8 +1,9 @@
-<h1 align="center">Cloud Devops</h1>
+<h1 align="center">Cloud Devops / MLOps</h1>
 
 <p align="center">
-  Explore essential tools and workflows that power modern system administration, including <strong>Linux</strong>, <strong>Docker</strong>, and <strong>Automation</strong>.
+  Key tools and practices enabling modern <strong>infrastructure automation</strong>, <strong>container orchestration</strong>, and <strong>scalable ML deployment workflows</strong>.
 </p>
+
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="Linux" width="100"/>
@@ -20,51 +21,71 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" alt="Jenkins" width="100"/>
     &nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/AWS_Simple_Icons_AWS_Cloud.svg" alt="AWS" width="150"/>
+  &nbsp;&nbsp;
+  
+
+
+
+
+
 </p>
 
 ---
 
-## 🧰 Tools Highlighted
 
-| Tool          | Description                                                                  |
-|---------------|------------------------------------------------------------------------------|
-| 🐧 Linux      | Open-source OS that powers servers, cloud infrastructure, and containers.     |
-| 🐳 Docker     | Containerization platform for building, running, and shipping applications.  |
-| 🧑‍💻 Bash     | Command-line interface for automating system tasks and scripting.            |
-| ⚙️ Ansible    | Automate system configurations, software deployment, and infrastructure setup.|
-| 🔐 Git        | Version control system for managing and collaborating on code.               |
-| 🌍 Terraform  | Infrastructure as Code (IaC) tool for provisioning and managing cloud resources.|
-| 🛠️ Jenkins    | Open-source automation server for continuous integration and continuous deployment (CI/CD).|
+## 🧰 Tools & Technologies
+<p align="center">
+
+| Tool          | Description                       | Context in DevOps/MLOps | AWS Use Case     |
+| ------------- | --------------------------------- | ----------------------- | ---------------- |
+| 🐧 Linux      | Open-source server OS             | Core server management  | EC2, ECS         |
+| 🐳 Docker     | Container platform                | App packaging           | ECS, Fargate     |
+| ⎈ Kubernetes  | Container orchestration           | Service scaling         | EKS              |
+| 🐮 Rancher    | Kubernetes cluster management     | Multi-cluster ops       | EKS mgmt         |
+| 🐍 Python     | Scripting, ML, automation         | Tooling, training, APIs | Boto3, SageMaker |
+| 🧑‍💻 Bash    | CLI scripting and automation      | CI/CD, Ops scripting    | AWS CLI          |
+| ⚙️ Ansible    | Config mgmt, orchestration        | Server setup            | EC2 config       |
+| 🔐 Git        | Version control                   | Code base mgmt          | CodeCommit       |
+| 🧭 GitHub     | Repo hosting, PRs, GitHub Actions | Collaboration, CI/CD    | GitHub Actions   |
+| 🌍 Terraform  | Infrastructure as Code            | IaC & provisioning      | VPC, EC2         |
+| 🛠️ Jenkins   | CI/CD automation                  | Pipeline execution      | CodeDeploy       |
+| 📈 Prometheus | Metrics collection & alerting     | Monitoring, alerting    | EC2/EKS          |
+| 📊 Grafana    | Dashboard & visualization         | Observability           | Grafana Cloud    |
+| ☁️ AWS        | Scalable cloud platform           | Everything              | 90% of stack     |
 
 
-## 📈 GitHub Stats
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aya-63&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats" width="480"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=R7Murat&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats" width="480"/>
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aya-63&layout=compact&theme=tokyonight" alt="Top Languages" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R7Murat&layout=compact&theme=tokyonight" alt="Top Languages" width="300"/>
 </p>
+
 
 ---
 
 ## 📊 Profile Insights
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aya-63&label=Profile%20Views&color=blue&style=flat" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=R7Murat&label=Profile%20Views&color=blue&style=flat" alt="Profile Views"/>
 </p>
+
 
 ---
 
 ## 🏆 Achievements
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=aya-63&theme=radical&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=R7Murat&theme=radical&hide_border=true" alt="GitHub Streak Stats"/>
 </p>
+
 
 ## 🔗 Connect with Me
 
-- 💻 GitHub: [@aya-63](https://github.com/aya-63)
-- 🌐 LinkedIn: [LinkedIn](https://www.linkedin.com/in/aya-abdelaty/)
-- 📬 Email: [Email](mailto:ayaabdelaty63@gmail.com)
+- 💻 GitHub: [GitHub](https://github.com/R7Murat)
+- 🌐 LinkedIn: [LinkedIn](https://www.linkedin.com/in/murat-a-7236441b)
+- 📬 Email: [Email](mailto:arseven.murat@gmail.com)
 ---
 
 ⭐️ If you like this project or my profile, give it a star!  
