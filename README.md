@@ -16,7 +16,7 @@
    &nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Ansible_Logo.png" alt="Docker" width="100"/>
   &nbsp;&nbsp;
-  <img src="https://static-00.iconduck.com/assets.00/terraform-icon-1803x2048-hodrzd3t.png" alt="Terraform" width="100"/>
+  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="100"/>
     &nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" alt="Jenkins" width="100"/>
     &nbsp;&nbsp;
