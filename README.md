@@ -84,7 +84,7 @@
 ## 🚀 Projects
 
 <p align="center" style="display: flex; align-items: center; justify-content: center; gap: 12px; flex-wrap: wrap;">
-  <span><strong>🔧 Ansible Projects</strong></span>
+   <br><span><strong>🔧 Ansible Projects</strong></span> </br>
   <a href="https://github.com/R7Murat/Flask_Application_with_Ansible.git">
     <img src="https://img.shields.io/badge/Flask_Application_with_Ansible-Click%20to%20View-blue?style=for-the-badge&logo=github" alt="Flask_Application_with_Ansible"/>
   </a>
