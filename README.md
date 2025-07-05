@@ -53,7 +53,7 @@
 | 📊 Grafana    | Dashboard & visualization         | Observability           | Grafana Cloud    |
 | ☁️ AWS        | Scalable cloud platform           | Everything              | 90% of stack     |
 
-
+</p>
 
 ## 📊 GitHub Stats
 
