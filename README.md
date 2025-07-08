@@ -1,4 +1,4 @@
-<h1 align="center">Cloud Devops / MLOps</h1>
+<h1 align="center">Cloud Devops </h1>
 
 <p align="center">
   Key tools and practices enabling modern <strong>infrastructure automation</strong>, <strong>container orchestration</strong>, and <strong>scalable ML deployment workflows</strong>.
