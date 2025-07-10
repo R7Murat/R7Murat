@@ -1,4 +1,4 @@
-<h1 align="center">Cloud Devops </h1>
+<h1 align="center"> Cloud DevOps & AI/ML Ops Engineering </h1>
 
 <p align="center">
   Key tools and practices enabling modern <strong>infrastructure automation</strong>, <strong>container orchestration</strong>, and <strong>scalable ML deployment workflows</strong>.
@@ -83,12 +83,19 @@
 
 ## 🚀 Projects
 
-<p align="center" style="display: flex; align-items: center; justify-content: center; gap: 12px; flex-wrap: wrap;">
-   <br><span><strong>🔧 Ansible Projects</strong></span> </br>
-  <a href="https://github.com/R7Murat/Flask_Application_with_Ansible.git">
-    <img src="https://img.shields.io/badge/Flask_Application_with_Ansible-Click%20to%20View-blue?style=for-the-badge&logo=github" alt="Flask_Application_with_Ansible"/>
-  </a>
-</p>
+### 🔧 Flask + Ansible
+
+A simple Flask web application deployed and automated using **Ansible** for provisioning and configuration management.
+
+[![View on GitHub](https://img.shields.io/badge/View--on--GitHub-blue?style=for-the-badge&logo=github)](https://github.com/R7Murat/Flask_Application_with_Ansible.git)
+
+
+
+### 🐳 Flask + Docker + Gunicorn + Nginx
+
+A containerized deployment of a car rental web application built with Flask, using **Docker Compose**, **Gunicorn**, and **Nginx**. Infrastructure is provisioned on **AWS EC2** using **Terraform**.
+
+[![View on GitHub](https://img.shields.io/badge/View--on--GitHub-blue?style=for-the-badge&logo=github)](https://github.com/R7Murat/Flask-Application-with-Docker.git)
 
 ---
 
