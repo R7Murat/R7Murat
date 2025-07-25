@@ -97,6 +97,15 @@ A containerized deployment of a car rental web application built with Flask, usi
 
 [![View on GitHub](https://img.shields.io/badge/View--on--GitHub-blue?style=for-the-badge&logo=github)](https://github.com/R7Murat/Flask-Application-with-Docker.git)
 
+
+### ⚙️ Flask + Terraform + Gunicorn + Nginx
+
+A Flask-based web application deployed with **Gunicorn** and **Nginx**, with infrastructure provisioned and managed using **Terraform**. Focuses on automated, scalable, and secure deployment practices.
+  
+[![View on GitHub](https://img.shields.io/badge/View--on--GitHub-blue?style=for-the-badge&logo=github)](https://github.com/R7Murat/Techpro-Rental-Car.git)
+
+
+
 ---
 
 
