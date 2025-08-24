@@ -116,7 +116,8 @@ A Flask web application deployed on a Kubernetes cluster with MySQL as the backe
 - Ingress resource managed by the NGINX Ingress Controller to expose the application externally  
 - Namespace isolation (`flask-app`) for better resource organization and security  
 
-[View on GitHub](https://github.com/R7Murat/Kubernates-Rental-Car.git)
+[![View on GitHub](https://img.shields.io/badge/View--on--GitHub-blue?style=for-the-badge&logo=github)](https://github.com/R7Murat/Kubernates-Rental-Car.git)
+
 
 
 ---
@@ -130,5 +131,6 @@ A Flask web application deployed on a Kubernetes cluster with MySQL as the backe
 ---
 
 ⭐️ If you like this project or my profile, give it a star!  
+
 
 
