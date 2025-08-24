@@ -104,6 +104,19 @@ A Flask-based web application deployed with **Gunicorn** and **Nginx**, with inf
   
 [![View on GitHub](https://img.shields.io/badge/View--on--GitHub-blue?style=for-the-badge&logo=github)](https://github.com/R7Murat/Techpro-Rental-Car.git)
 
+### ​​ Flask + Kubernetes + MySQL + NGINX Ingress
+
+A Flask web application deployed on a Kubernetes cluster with MySQL as the backend and exposed via NGINX Ingress. The project includes:
+
+- Kubernetes Deployments for both the Flask app and MySQL  
+- PersistentVolume and PersistentVolumeClaim for MySQL data persistence  
+- ClusterIP Services for internal communication between components  
+- ConfigMaps for non-sensitive environment configuration  
+- Secrets for secure storage of sensitive variables (e.g., database credentials)  
+- Ingress resource managed by the NGINX Ingress Controller to expose the application externally  
+- Namespace isolation (`flask-app`) for better resource organization and security  
+
+[View on GitHub](https://github.com/R7Murat/Kubernates-Rental-Car.git)
 
 
 ---
@@ -117,4 +130,5 @@ A Flask-based web application deployed with **Gunicorn** and **Nginx**, with inf
 ---
 
 ⭐️ If you like this project or my profile, give it a star!  
+
 
