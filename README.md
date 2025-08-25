@@ -1,4 +1,4 @@
-<h1 align="center"> Cloud DevOps & AI/ML Ops Engineering </h1>
+<h1 align="center"> AWS Cloud DevOps & AI/ML Engineer </h1>
 
 <p align="center">
   Key tools and practices enabling modern <strong>infrastructure automation</strong>, <strong>container orchestration</strong>, and <strong>scalable ML deployment workflows</strong>.
@@ -131,6 +131,7 @@ A Flask web application deployed on a Kubernetes cluster with MySQL as the backe
 ---
 
 ⭐️ If you like this project or my profile, give it a star!  
+
 
 
 
