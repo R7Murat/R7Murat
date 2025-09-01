@@ -98,11 +98,14 @@ A containerized deployment of a car rental web application built with Flask, usi
 [![View on GitHub](https://img.shields.io/badge/View--on--GitHub-blue?style=for-the-badge&logo=github)](https://github.com/R7Murat/Flask-Application-with-Docker.git)
 
 
+
 ### ⚙️ Flask + Terraform + Gunicorn + Nginx
 
 A Flask-based web application deployed with **Gunicorn** and **Nginx**, with infrastructure provisioned and managed using **Terraform**. Focuses on automated, scalable, and secure deployment practices.
   
 [![View on GitHub](https://img.shields.io/badge/View--on--GitHub-blue?style=for-the-badge&logo=github)](https://github.com/R7Murat/Techpro-Rental-Car.git)
+
+
 
 ### ​​ Flask + Kubernetes + MySQL + NGINX Ingress
 
@@ -120,6 +123,17 @@ A Flask web application deployed on a Kubernetes cluster with MySQL as the backe
 
 
 
+### 🧩 Jenkins + Terraform + Docker Compose  
+End-to-end CI/CD pipeline with Jenkins for a Flask app on AWS EC2, provisioned via Terraform.  
+Docker Compose used for container orchestration; fully automated build, test, and deploy.  
+
+[![View on GitHub](https://img.shields.io/badge/VIEW--ON--GITHUB-007ACC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/R7Murat/Jenkins-Pipeline-Techpro-Rental-Car-Project.git)
+
+
+
+
+
+
 ---
 
 
@@ -131,6 +145,7 @@ A Flask web application deployed on a Kubernetes cluster with MySQL as the backe
 ---
 
 ⭐️ If you like this project or my profile, give it a star!  
+
 
 
 
